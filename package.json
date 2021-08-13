@@ -1,6 +1,6 @@
 {
   "name": "@dnwilson/fyrekit.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A set of Stimulus components for FyreKit",
   "homepage": "https://github.com/dnwilson/fyrekit.js",
   "source": "src/index.js",
