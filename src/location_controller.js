@@ -1,5 +1,5 @@
 import { Controller } from 'stimulus'
-import AddressBuilder from '../lib/address_builder'
+import AddressBuilder from './lib/address_builder'
 
 export default class extends Controller {
   static targets = ['autocomplete', 'city', 'state', 'latitude', 'longitude']

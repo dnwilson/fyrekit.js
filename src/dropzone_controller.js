@@ -1,7 +1,7 @@
 import { Controller } from 'stimulus'
 import Dropzone from 'dropzone'
 import * as ActiveStorage from '@rails/activestorage'
-import { getMetaValue, findElement, removeElement, insertAfter } from '../lib/dropzone_helpers'
+import { getMetaValue, findElement, removeElement, insertAfter } from './lib/dropzone_helpers'
 
 Dropzone.autoDiscover = false
 
