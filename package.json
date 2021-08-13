@@ -1,14 +1,23 @@
 {
-  "name": "fyrekit.js",
+  "name": "@dnwilson/fyrekit.js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "homepage": "https://github.com/dnwilson/fyrekit.js",
-  "repository": "github:dnwilson/fyrekit.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnwilson/fyrekit.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dane Wilson",
+  "author": {
+    "name": "Dane Wilson",
+    "email": "me@danewilson.dev"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/dnwilson"
+  },
   "license": "MIT",
   "type": "module",
   "dependencies": {
