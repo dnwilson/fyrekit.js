@@ -1,6 +1,6 @@
 {
-  "name": "@dnwilson/fyrekit.js",
-  "version": "1.0.6",
+  "name": "fyrekit.js",
+  "version": "1.0.1",
   "description": "A set of Stimulus components for FyreKit",
   "homepage": "https://github.com/dnwilson/fyrekit.js",
   "source": "src/index.js",
@@ -14,7 +14,7 @@
     "build": "microbundle",
     "dev": "microbundle watch"
   },
-  "author": "Dane Wilson <me@danewilson.dev>",
+  "author": "Dane Wilson <dnkw@hotmail.com>",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/dnwilson"
   },
